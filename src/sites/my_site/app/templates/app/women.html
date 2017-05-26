@@ -1,0 +1,28 @@
+{% extends 'base/base.html' %}
+{% load staticfiles %}
+{% load i18n %}
+
+{% block title %} {% trans "Arizona Karen Baptist Church" %} {% endblock %}
+
+{% get_current_language as LANGUAGE_CODE %}
+
+{% block content %}
+  <div class="container">
+    <!--<h3>{% trans "Never be lacking in zeal, but keep your spiritual fervor, serving the Lord. (Romans 12:11)" %}</h3>
+    <h3>{% trans "Women's Choir: House on the Rock" %}</h3>
+    <div class="video-container">
+      <iframe width="640" height="360" src="//www.youtube.com/embed/CA1mBWv33uQ?rel=0" frameborder="0" allowfullscreen></iframe>
+    </div>-->
+
+    <h3>{% trans "Women's Choir: In the Garden" %}</h3>
+    <div class="video-container">
+        <iframe width="640" height="360" src="//www.youtube.com/embed/f775-gV6UR8?rel=0" frameborder="0" allowfullscreen></iframe>
+    </div>
+
+    <!--<h3>{% trans "Women's Quartet Competition Winners" %}</h3>
+    <div class="video-container">
+        <iframe width="480" height="360" src="//www.youtube.com/embed/6ieM-kXJ03M?rel=0" frameborder="0" allowfullscreen></iframe>
+    </div>-->
+
+  </div><!-- /.container -->
+{% endblock %}

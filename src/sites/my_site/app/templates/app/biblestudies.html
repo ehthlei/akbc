@@ -1,0 +1,25 @@
+{% extends 'base/base.html' %}
+{% load staticfiles %}
+{% load i18n %}
+
+{% block title %} {% trans "Arizona Karen Baptist Church" %} {% endblock %}
+
+{% get_current_language as LANGUAGE_CODE %}
+
+{% block content %}
+<div class="container">
+    <h2>{% trans "Are you suffering from spiritual starvation?" %}</h2>
+    <p>
+        <a href="https://drive.google.com/file/d/0B19u6GPALdafcnp2dHNPdGRHRE0/edit?usp=sharing" target="_blank">{% trans 'Click here.' %}</a>
+    </p>
+
+    <h2>{% trans "Bible Study Materials" %}</h2>
+    <p>
+        <a href="https://drive.google.com/folderview?id=0B19u6GPALdafbzhKckJ4LXRmZ3M&usp=sharing" target="_blank">{% trans "Explore them here." %}</a>
+    </p>
+
+    <h2>{% trans "Bible Study Schedule" %}</h2>
+    <a href="{% url 'bibleStudySchedule' %}">{% trans "Check the bible study schedule." %}</a>
+
+</div><!-- /.container -->
+{% endblock %}

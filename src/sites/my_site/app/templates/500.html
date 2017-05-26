@@ -1,0 +1,20 @@
+{% extends 'base/base.html' %}
+{% load staticfiles %}
+{% load i18n %}
+
+{% block title %} {% trans "AKBC" %} {% endblock %}
+
+{% get_current_language as LANGUAGE_CODE %}
+
+{% block content %}
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-4">
+        <img class="featurette-image img-responsive" src="" alt="">
+      </div>
+      <div class="col-lg-8">
+        <h2>Oops, something went wrong. Please check again later.</h2>
+      </div>
+    </div>
+  </div><!-- /.container -->
+{% endblock %}

@@ -1,0 +1,40 @@
+{% extends 'base/base.html' %}
+{% load staticfiles %}
+{% load i18n %}
+
+{% block title %} {% trans "Arizona Karen Baptist Church" %} {% endblock %}
+
+{% get_current_language as LANGUAGE_CODE %}
+
+{% block content %}
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+  	    <h2>{% trans "Address" %}</h2>
+        <p>2409 North 36th Street<br />
+          Phoenix, Arizona 85008.<br />
+          Phone: (602)273-7383 <br />
+	      </p>
+        <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=2409+North+36th+Street+Phoenix,+Arizona+85008&amp;sll=37.0625,-95.677068&amp;sspn=37.819897,86.572266&amp;ie=UTF8&amp;hq=&amp;hnear=2409+N+36th+St,+Phoenix,+Maricopa,+Arizona+85008&amp;z=14&amp;ll=33.473867,-112.003762&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=2409+North+36th+Street+Phoenix,+Arizona+85008&amp;sll=37.0625,-95.677068&amp;sspn=37.819897,86.572266&amp;ie=UTF8&amp;hq=&amp;hnear=2409+N+36th+St,+Phoenix,+Maricopa,+Arizona+85008&amp;z=14&amp;ll=33.473867,-112.003762" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+      </div> <!-- end col-md-6 -->
+      <div class="col-md-6">
+        <h2>{% trans "Worship" %}</h2>
+        <p>
+            <b>{% trans "Sunday School/Bible Study: 11:00 a.m." %}</b>
+        </p>
+        <ul>
+          <li>{% trans "Age 3 and below" %}</li>
+          <li>{% trans "Age 4-5" %}</li>
+          <li>{% trans "Age 6-7" %}</li>
+          <li>{% trans "Age 8-9" %}</li>
+          <li>{% trans "Age 10-11" %}</li>
+          <li>{% trans "Age 12-13" %}</li>
+          <li>{% trans "Age 14+" %}</li>
+          <li>{% trans "Young Adults" %}</li>
+          <li>{% trans "Adults - 3 classes" %}</li>
+        </ul>
+        <p><b>{% trans "Worship Service: 12:15 p.m." %}</b></p>
+      </div> <!-- end col-md-6 -->
+    </div> <!-- end row -->
+  </div><!-- /.container -->
+{% endblock %}

@@ -1,0 +1,34 @@
+{% extends 'base/base.html' %}
+{% load staticfiles %}
+{% load i18n %}
+
+{% block title %} {% trans "AKBC" %} {% endblock %}
+
+{% get_current_language as LANGUAGE_CODE %}
+
+{% block content %}
+  <div class="container">
+
+    <h2>{% trans "Prayer Warriors" %}</h2>
+    <h3>{% trans "2 Chronicles 7:14-15(NIV)" %}</h3>
+    <p>
+        <i>
+        {% trans "If my people, who are called by my name,  will humble themselves and pray and seek my face and turn from their wicked  ways, then will I hear from heaven and will forgive their sin and will heal  their land. Now my eyes will be open and my ears attentive to the  prayers offered in this place." %}
+        </i>
+    </p>
+    <p>
+        {% trans "Every Friday  night, a group of prayer warriors, led by Pastor Tha Hser, communes with God to  praise Him, seek His guidance, and appeal for His intercession for our world,  our nations, our people, and our congregation." %}
+    </p>
+   
+    <h2>{% trans "Christian Care and Social Ministry" %}</h2>
+    <h3>{% trans "2 Corinthians 8:1-2 (NIV)" %}</h3>
+    <p>
+        <i>
+            {% trans "And  now, brothers, we want you to know about the grace that God has given the  Macedonian churches. Out of the most severe trial, their  overflowing joy and their extreme poverty welled up in rich generosity." %}
+        </i>
+    </p>
+    <p>
+        {% trans "The Christian Care and Social Ministry, led by Pastor Tha Hser, offers help to immigrants, who  face economic, cultural, occupational, psychological, and communicational challenges.  This ministry manifests the compassion of  Christ to those facing life challenges through prayers, friendship, and support  that includes, but not limited to, counseling, financial assistance, job  search, translation, interpreting, transportation, and education." %}
+    </p>
+  </div><!-- /.container -->
+{% endblock %}

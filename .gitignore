@@ -1,0 +1,14 @@
+*.pyc
+*.swp
+*.bak
+*.mo
+*.db
+.sass-cache
+.ropeproject
+.noseids
+.directory
+src/sites/env
+secret.py
+sync.sh
+.idea
+akbc

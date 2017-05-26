@@ -1,0 +1,19 @@
+{% extends 'base/base.html' %}
+{% load staticfiles %}
+{% load i18n %}
+
+{% block title %} {% trans "Arizona Karen Baptist Church" %} {% endblock %}
+
+{% get_current_language as LANGUAGE_CODE %}
+
+{% block content %}
+<div class="container">
+    <h2>{% trans "Sermons" %}</h2>
+    <p>
+        <a href="https://drive.google.com/folderview?id=0B19u6GPALdafTkQxTlMxamNkOVk&usp=sharing" target="_blank">
+            {% trans "AKBC Sermons." %}
+        </a>
+    </p>
+
+</div><!-- /.container -->
+{% endblock %}

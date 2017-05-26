@@ -1,0 +1,73 @@
+{% extends 'base/base.html' %}
+{% load staticfiles %}
+{% load i18n %}
+
+{% block title %} {% trans "Arizona Karen Baptist Church" %} {% endblock %}
+
+{% get_current_language as LANGUAGE_CODE %}
+
+{% block content %}
+    {% include 'app/_carousel.html' %}
+
+    <!-- Marketing messaging and featurettes
+    ================================================== -->
+    <!-- Wrap the rest of the page in another container to center all the content. -->
+
+    <div class="container marketing">
+
+      <!-- START THE FEATURETTES -->
+      <div class="row featurette">
+        {% comment %}
+        <div class="col-md-8">
+          <div class="video-container">
+            <iframe width="640" height="360" src="//www.youtube.com/embed/_QdGiSH407I?rel=0" frameborder="0" allowfullscreen></iframe>
+          </div>
+        </div>
+        {% endcomment %}
+
+        <div class="col-md-12">
+          <h2 class="text-center">Welcome to Arizona Karen Baptist Church</h2>
+        </div>
+      </div>
+      <hr class="featurette-divider">
+
+      <!-- Three columns of text below the carousel -->
+      <div class="row featurette">
+        <div class="col-lg-4">
+          <h2>{% trans "Sunday Ministries" %}</h2>
+          <p>
+    	      {% trans "Sunday School/Bible Study: 11:00 a.m." %}<br/>
+            {% trans "Worship Service: 12:15 p.m." %}
+          </p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <h2>{% trans "Be alive, be fruitful, and bring glory to God!" %}</h2>
+          <p>{% trans "For none of us lives for ourselves alone, and none of us dies for ourselves alone. If we live, we live for the Lord; and if we die, we die for the Lord. So, whether we live or die, we belong to the Lord. (Romans 14:7-8)" %}</p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <h2>{% trans "Address" %}</h2>
+          <address>
+            <strong>Arizona Karen Baptist Church</strong><br>
+            2409 North 36th Street<br />
+            Phoenix, Arizona 85008.<br />
+            <abbr title="Phone">Tel:</abbr> (602) 273-7383 <br />
+          </address>
+          <p><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=2409+North+36th+Street+Phoenix,+Arizona+85008&amp;sll=37.0625,-95.677068&amp;sspn=37.819897,86.572266&amp;ie=UTF8&amp;hq=&amp;hnear=2409+N+36th+St,+Phoenix,+Maricopa,+Arizona+85008&amp;z=14&amp;ll=33.473867,-112.003762" style="color:#0000FF;text-align:left" target="_blank">View Map</a></p>
+        </div><!-- /.col-lg-4 -->
+      </div><!-- /.row -->
+
+      <!-- /END THE FEATURETTES -->
+    </div><!-- /.container -->
+{% endblock %}
+
+{% block extra_js %}
+<script>
+      !function ($) {
+        $(function(){
+          // carousel demo
+          $('#myCarousel').carousel()
+        })
+      }(window.jQuery)
+
+</script>
+{% endblock %}

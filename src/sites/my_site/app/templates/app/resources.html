@@ -1,0 +1,54 @@
+{% extends 'base/base.html' %}
+{% load staticfiles %}
+{% load i18n %}
+
+{% block title %} {% trans "AKBC" %} {% endblock %}
+
+{% get_current_language as LANGUAGE_CODE %}
+
+{% block content %}
+
+  <div class="container">
+    <h1>{% trans "Resources" %}</h1>
+    <p><a href="https://drive.google.com/file/d/0B19u6GPALdafVmJJWS1IR0E0MXM/view?usp=sharing" target="_blank">{% trans "N-400 application for US citizenship" %}</a> (<a href="http://www.uscis.gov/sites/default/files/files/form/n-400.pdf" target="_blank">in English from USCIS site</a>)</p>
+    <p><a href="https://drive.google.com/file/d/0B7HJd8apZYBtYXNNTkZSZkxuLTA/edit?usp=sharing" target="_blank">{% trans "Tips for Job  Interview" %}</a></p>
+    <p><a href="https://drive.google.com/file/d/0B7HJd8apZYBtSWJYX2pJM1A1WEk/edit?usp=sharing" target="_blank">{% trans "Arizona Department of Economic Seurity (DES) - Application for Assistance" %}</a> (in Karen)</p>
+    <p><a href="https://drive.google.com/file/d/0B7HJd8apZYBtY0Q1OUhuZUZnTkU/edit?usp=sharing" target="_blank">{% trans "Arizona Department of Economic Seurity (DES) - Change Report" %}</a> (in Karen)</p>
+    <p><a href="https://drive.google.com/file/d/0B7HJd8apZYBtNjktTUZIT0tvREU/edit?usp=sharing" target="_blank">{% trans "Translated Arizona  Driver’s License Manual" %}</a></p>
+    <p><a href="https://drive.google.com/file/d/0B7HJd8apZYBtS1FuemZTOXcyLVE/edit?usp=sharing" target="_blank">{% trans "American Citizenship Exam Study Guide in Karen" %}</a> (pdf)</p>
+    <p>{% trans "American Citizenship Exam Study Guide in Karen" %} (<a href="https://soundcloud.com/arizona-karen-baptist-church/us-citizenship-questions-in" target="_blank">mp3 download</a>)</p>
+    <div class="video-container">
+      <iframe width="420" height="315" src="//www.youtube.com/embed/BMbLMn0eR5Q?rel=0" frameborder="0" allowfullscreen></iframe>
+    </div>
+
+    <hr/>
+    <div class="row">
+      <div class="col-md-6">
+        <h2>Personal Hygiene  Video (English)</h2>
+    	  <div class="video-container">
+            <iframe width="480" height="390" src="http://www.youtube.com/embed/zGR-ezP5bxg" frameborder="0" allowfullscreen></iframe>
+    	  </div>
+
+      </div>
+      <div class="col-md-6">
+        <h2>Personal Hygiene  Video (Karen)</h2>
+          <div class="video-container">
+            <iframe width="480" height="390" src="http://www.youtube.com/embed/Kta0pp8xe-c" frameborder="0" allowfullscreen></iframe>
+          </div>
+      </div>
+    </div>
+    <h1>Links</h1>
+    <p>American Baptist  Churches USA<br />
+      <a href="http://www.abc-usa.org/">http://www.abc-usa.org/</a></p>
+    <p>American Baptist  Churches of Los Angeles and Congregations of the Southwest and Hawaii<br />
+      <a href="http://www.abcla.org/">http://www.abcla.org/</a></p>
+    <p>Monte Vista Baptist Church <br />
+    	<a href="http://www.mvbc-abc.com/">http://www.mvbc-abc.com/</a></p>
+    <p>Bellevue Heights  Church<br />
+      <a href="http://www.bellevueheightschurch.com/">http://www.bhcsuncity.com/</a></p>
+    <p>Friends of Burma<br />
+      <a href="http://friendsofburma.org/">http://friendsofburma.org/</a></p>
+    <p>Karen Konnection<br />
+      <a href="http://karenkonnection.org/">http://karenkonnection.org/</a></p>
+  </div><!-- /.container -->
+{% endblock %}

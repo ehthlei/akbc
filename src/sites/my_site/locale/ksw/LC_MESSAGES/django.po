@@ -1,0 +1,614 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-21 18:59-0500\n"
+"PO-Revision-Date: 2014-03-02 08:29-0500\n"
+"Last-Translator: Tansy Kadoe <akbctansy@gmail.com>\n"
+"Language-Team: AKBC <arizonakarenbaptistchurch@gmail.com>\n"
+"Language: ksw\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: templates/404.html:5 templates/500.html:5 templates/app/ministries.html:5
+#: templates/app/pictures.html:3 templates/app/resources.html:5
+#: templates/base/_menu.html:14
+msgid "AKBC"
+msgstr "AKBC"
+
+#: templates/app/about.html:5 templates/app/bible_study_schedule.html:5
+#: templates/app/biblestudies.html:5 templates/app/calendar.html:5
+#: templates/app/index.html:5 templates/app/location.html:5
+#: templates/app/pastors.html:5 templates/app/sermons.html:5
+#: templates/app/women.html:5 templates/app/youth.html:5
+#: templates/base/footer.html:6
+msgid "Arizona Karen Baptist Church"
+msgstr "အရံၣ်စိနါကညီဘျၢထံခရံာ်ဖိတၢ်အိၣ်ဖှိၣ်"
+
+#: templates/app/about.html:11
+msgid "Mission"
+msgstr "တၢ်တိာ်"
+
+#: templates/app/about.html:13
+msgid ""
+"As believers in Jesus Christ, we are a caring church family dedicated to "
+"sharing our faith, hope and love with immigrants from Burma who have found "
+"freedom in America."
+msgstr ""
+"ဒ်ပမ့ၢ်ပှၤစူၢ်က့ၤနာ်က့ၤကစၢ်ခရံၣ်တဖၣ်အသိး, ပမ့ၢ်ခရံၣ်ဖိးဒူၣ်ဖိထၢဖိ လၢအသးအိၣ်ဟ့ၣ်ခီဟ့ၣ်နီၤလီၤ ပတၢ်စူၢ်တၢ်နာ်, "
+"ပတၢ်မုၢ်လၢ်, ဒီး ပတၢ်အဲၣ်ဆူ ပှၤဟဲသုးလီၢ်သုးကျဲလၢကီၢ်ပယီၤ ဆူ ကီၢ်အမဲရံကၤ အပူၤလီၤ. "
+
+#: templates/app/about.html:16
+msgid "Purpose"
+msgstr "တၢ်ပညိၣ်"
+
+#: templates/app/about.html:18
+msgid ""
+"We serve refugees from Burma by teaching them the Bible and offering them a "
+"Family of Christ where they can be a part of, so they will seek to love God "
+"and people. By doing this, we believe that our Arizona Karen Baptist Church "
+"will be able to become witnesses for Christ through (1) loving our Lord "
+"Jesus Christ wholeheartedly – Matthew 22:37, (2) loving, helping, and "
+"honoring one another – Matthew 22:39, (3) exhibiting the fruits of the "
+"Spirit in their lives – Galatians 5:22-23, (4) demonstrating God’s love to "
+"others through serving  – Mark 10:45, and (5) supporting and serving in "
+"mission fields to spread the Gospel – Acts 1:8."
+msgstr ""
+"တၢ်အိၣ်ဖှိၣ်မၤတၢ်ခ့တၢ်ပှၤအတၢ်မၤလၢပှၤဘၣ်ကီဘၣ်ခဲလၢအဟဲသုးလီၢ်သုးကျဲလၢကီၢ်ပယီၤတဖၣ်အဂီၢ် "
+"ဒ်သိးကသိၣ်လိသီလိအဝဲသ့ၣ်လၢထူကလုၢ်ယွၤကထါ, ပာ်ဖှိၣ်ထီၣ်သကိးသးဒ်ခရံာ်အဒူၣ်ဖိထၢဖိ, ဒီး အိၣ်မူသကိးလၢတၢ်အဲၣ်ဘၣ်ယွၤဒီး "
+"ပှၤကညီအပူၤ​​န့ၣ်လီၤ. ခီဖျိလၢပမၤသကိးတၢ်ဒ်အံၤအဃိ ပနာ်လၢအရံၣ်ဇိနါ "
+"ကညီဘျၢထံတၢ်အိၣ်ဖှိၣ်ကကဲထီၣ်ပှၤအုၣ်အသးလၢခရံာ်အဂီၢ်ခီဖျိ (၁) တၢ်အဲၣ်ကစၢ်ခရံာ်လၢသူၣ်ဒီဖျၢၣ်သးဒီဖျၢၣ်(မးသဲ "
+"၂၂:၃ရ)  (၂) တၢ်ဒုးကဲထီၣ်ခရံာ်အပျဲၢ်အဘီၣ်တဖၣ် (မးသဲ-၂၈:၁၉-၂၀)  (၃) "
+"တၢ်ဟံးစုနဲၣ်ကျဲအပျဲၢ်အဘီၣ်လၢစူၢ်က့ၤနာ်က့ၤတၢ်တဖၣ် ဒ်သိးကဒိၣ်ထီၣ်လၢသူၣ် လၢသးဒီး ကလီၤဂာ်အါထီၣ်ဒ်ခရံာ် (မးသဲ ၅:၄၈) "
+"(၄) တၢ်ပာ်ဖျါထီၣ်တၢ်အဲၣ်တၢ်ကွံခီဖျိ တၢ်ကဟုကယာ် မၤစၢၤလိာ်သး (မးသဲ ၂၂:၃၉) (၅) "
+"တၢ်ဆီၣ်ထွဲမၤစၢၤခရံာ်အတၢ်သးခုကစီၣ် တၢ်ဖံးတၢ်မၤဒ်သိးပှၤတနာ် ခရံာ်တဖၣ် ကဒိးန့ၢ်တၢ်မုၢ်လၢ်လၢ "
+"ယွၤအတၢ်အၢၣ်လီၤအီလီၤအပူၤ (မးသဲ ၂၄:၁၄) န့ၣ်လီၤ.  "
+
+#: templates/app/about.html:21
+msgid "Belief"
+msgstr "ပတၢ်စူၢ်တၢ်နာ်မိၢ်ပှၢ်"
+
+#: templates/app/about.html:24
+msgid ""
+"Our church accepts the Scriptures as our authority in matters of faith and "
+"practice. We affirm our allegiance to Jesus Christ and to His church. We "
+"seek for ourselves and others the fullness of salvation found in Christ, and "
+"a life lived in meaningful relationship to God. We continually seek "
+"forgiveness for our sins, and the renewal of our spiritual life through the "
+"indwelling of the Holy Spirit. We seek to discover, through faithful worship "
+"and fellowship at the Lord’s Table, the true meaning of Christian "
+"discipleship."
+msgstr ""
+"ပတၢ်အိၣ်ဖှိၣ်တူာ်လိာ်ဝဲ ယွၤအကလုၢ်ကထါ လံာ်စီဆှံ ဒ်အမ့ၢ်တၢ်စိတၢ်ကမီၤ လၢပကစူၢ်နာ်အီၤ ဒီးပကအိၣ်မူမၤထွဲ အတၢ်သိၣ်လိ န့ၣ်လီၤ. "
+"ပပာ်လီၤပသးကျၢၤမူဆှူလၢပကတီဒီးခရံာ်ဒီးအတၢ်အိၣ်ဖှိၣ်လီၤ. ပဃုထံၣ်န့ၢ် တၢ်အုၣ်က့ၤခီၣ်က့ၤအလၢအပှဲၤလၢကစၢ်ခရံာ်အပူၤ ဒီး "
+"တၢ်အိၣ်မူလၢအိၣ်ပှဲၤဒီး အခီပညီ လၢအဟဲခီဖျိ လၢတၢ်ဘၣ်ထွဲဒီးကစၢ်ယွၤန့ၣ်လီၤ. ထီဘိပအၢၣ်လီၤပတၢ်ဂံၢ်စၢ်ဘါစၢ် ဒီး "
+"ပဒိးတၢ်ပျၢ် ပတၢ်ဒဲးဘးလၢခရံာ်လီၤ. ပမၤသီထီၣ်က့ၤပတၢ်အိၣ်မူ ခီဖျိ ပပျဲသးစီဆှံမူဒီးမၤတၢ်လၢပသးအပူၤန့ၣ်လီၤ. "
+
+#: templates/app/about.html:27
+msgid "Affiliation"
+msgstr "တၢ်ဘျးစဲ"
+
+#: templates/app/about.html:30
+msgid ""
+"Our church is affiliated with the American Baptist Churches USA on a "
+"national basis, and in the Region with American Baptist Churches of Los "
+"Angeles, the Southwest and Hawaii."
+msgstr ""
+"ပတၢ်အိၣ်ဖှိၣ်ဘၣ်ထွဲဒီး အမဲရံကၤဘျၢထံတၢ်အိၣ်ဖှိၣ်တဖၣ် (American Baptist Churches USA) လီၤ. "
+"လၢလီၢ်ကဝီၤတခီ ပဘၣ်ထွဲဒီး  American Baptist Churches of Los Angeles, the Southwest "
+"and Hawaii န့ၣ်လီၤ."
+
+#: templates/app/about.html:33
+msgid "History"
+msgstr "တၢ်စံၣ်စိၤတဲစိၤ"
+
+#: templates/app/about.html:36
+msgid ""
+"Our church, Arizona Karen Baptist Church (AKBC), is made up of about 500 "
+"Karen refugees from the Burma-Thai border, recently resettled in Phoenix "
+"after surviving atrocious persecution by the Myanmar military Junta."
+msgstr ""
+"အရံၣ်စိနါကညီဘျၢထံတၢ်အိၣ်ဖှိၣ် ဘၣ်တၢ်သူၣ်ထီၣ်အသးလၢ ပှၤကညီဘၣ်ကီဘၣ်ခဲ အဂၤ ၅၀၀ လၢအဟဲသုးအသး လၢကီၢ်ပယီၤဒီးယိၤကီၢ် "
+"ကီၢ်ဆၢတဖၣ် ခီဖျိအဘၣ်တၢ်ဆီၣ်ဘံၣ်ဆီၣ်ဘၢအီၤ လၢပယီၤသုးပဒိၣ်တဖၣ်အတၢ်ပၢတၢ်ပြးအဖီလာ်အဃိ လီၤ. အခဲအံၤပှၤသ့ၣ်တဖၣ်အံၤ "
+"ဒိးန့ၢ်ဘၣ် တၢ်ပျဲလၢကဟဲသူၣ်ထီၣ်ဘၣ်တၢ်အိၣ်မူအသီ လၢ ဖဲဝ့ၢ်ဖံန့းက်စ် အပူၤ ဒီး ပာ်ဖှိၣ်ထီၣ်အသးဒီးသူၣ်ထီၣ်ဘၣ်ဝဲ "
+"ခရံာ်တၢ်အိၣ်ဖှိၣ်လီၤ. "
+
+#: templates/app/about.html:40
+msgid ""
+"Our ancestors foretold us that our younger white brother would sail across "
+"the sea and bring us “the Golden Book, the Silver Book, the Book of Life” "
+"one day. In 1813, Adoniram and Ann Judson arrived in Burma as the first "
+"missionaries to Burma. Adonirian Judson fulfilled the role of our young "
+"brother and brought to us the Bible. Our faith and hope in Jesus Christ are "
+"the sole reasons that provided strength for perilous times in our homeland. "
+"That same faith now offers hope for the future in the United States."
+msgstr ""
+"ပမိၢ်ပၢ်လၢပျၢၤတဲတ့ၢ်ပှၤလၢ ပပုၢ်ဒ့ဝါ ကဟဲခီဂာ်ပီၣ်လဲၣ် ဒီးဟဲစိာ်န့ၢ်က့ၤပှၤ လံာ်ထူလံာ်စ့လံာ်ပၢ်ယွၤ လီၤ. ဖဲ ၁၈၁၃ နံၣ်န့ၣ် "
+"သရၣ်ဒီးမးမးယူဒၤသၣ် ဟဲတုၤလၢကီၢ်ပယီၤ ဒ်ပှၤစိာ်တၢ်သးခုကစီၣ်အဆိကတၢၢ်ဆူ ကီၢ်ပယီၤ န့ၣ်လီၤ. သရၣ်ယူဒၤသၣ်မၤလၢပှဲၤ "
+"တၢ်စံၣ်စိာ်တဲစိာ် ဒီးဟဲစိာ်န့ၢ်က့ၤပှၤပလံာ်စီဆှံ ဒ်အမ့ၢ်ဝဲ ပပုၢ်ဒ့ဝါသ့ၣ်တဖၣ်အသိးလီၤ. ပတၢ်စူၢ်တၢ်နာ် တၢ်မုၢ်လၢ် "
+"လၢအသူၣ်လီၤအသးလၢ ပကစၢ်ခရံာ် မ့ၢ်တၢ်တမံၤလၢ အဟ့ၣ်ပှၤဂံၢ်ဘါ ဒီး မၤစၢၤပှၤ "
+"ဖဲပလဲၤခီဖျိဘၣ်တၢ်ကီတၢ်ခဲလၢပထံပကီၢ်န့ၣ်လီၤ. ပတၢ်စူၢ် တၢ်နာ်တမံၤဃီအံၤဟ့ၣ်ပှၤတၢ်မုၢ်လၢ် တၢ်ဂံၢ်တၢ်ဘါ လၢပတၢ်အိၣ်မူဆူညါ "
+"လၢကီၢ်အမဲရံကၤအပူၤအံၤ န့ၣ်လီၤ."
+
+#: templates/app/about.html:44
+msgid ""
+"When we were resettled in Phoenix, we looked for a church in which to "
+"worship. In 2002, Pastor and Mrs. Glenn Ramey of West Dunlap church, now "
+"known as Cross Connection International Fellowship, embraced us with love "
+"and compassion; they will forever hold a special place in our thankful "
+"hearts."
+msgstr ""
+"ဖဲပဟဲစးထီၣ်ဆီလီၤက့ၤပသးဖဲဝ့ၢ်ဖံနံးက်စ်အံၤအခါန့ၣ်,ပဃုဝဲဒၣ်တၢ်ဘါယွၤအလီၢ်ဒ်သိးပကဘါဘၣ်ယွၤလၢသရိာ်အပူၤန့ၣ်လီၤ. ဖဲ ၂၀၀၂ "
+"န့ၣ် သရၣ်ဒိၣ် Ramey ဒီး အမၢၤ လၢကွၢ်တၢ်အိၣ်ဖှိၣ်ဖဲ West Dunlap တၢ်အိၣ်ဖှိၣ်, လၢဘၣ်တၢ်ကိးအီၤလၢ Cross "
+"Connection International Fellowship မုၢ်မဆါတနံၤအံၤ, တူၢ်လိာ်မုာ်ပှၤလၢတၢ်အဲၣ်တၢ်ကဟုကယာ်ဒီး "
+"အဝဲသ့ၣ်အတၢ်အဲၣ်ပှၤအတၢ်သးအိၣ်ပှၤ န့ၣ်ပသးပ့ၤနီၣ်တသ့နီတဘျီဘၣ်န့ၣ်လီၤ."
+
+#: templates/app/about.html:48
+msgid ""
+"In August 2006, Pastor Tha Hgay and family arrived in Phoenix from Htam Hin "
+"refugee camp. He is a graduate of Kaw Thoo Lei Karen Baptist Bible School in "
+"Mae La, Thailand. He was ordained in 1995. Pastor Tha Hgay was a pastor of "
+"Amala Church in Tavoy for five years. He later served as the Executive "
+"Secretary for Bleik-Tavoy Kaw Thoo Lei Karen Baptist Convention for five "
+"years. In the Htam Hin refugee camp, Pastor Tha Hgay served as a chairman "
+"for 15 churches organized under Zone 1. Upon arriving in Phoenix, Pastor Tha "
+"Hgay instantly made coordinated efforts for the Karen Christians to organize "
+"themselves better as a church. Pastor Tha Hgay and family relocated to "
+"Georgia in 2011."
+msgstr ""
+"ဖဲလါအီကူး ၂၀၀၆ န့ၣ် သရၣ်ဒိၣ်သးဂ့ၤဒီးအဒူၣ်ဖိထၢဖိဟဲတုၤလၢ ထါမဟ့ၣ်ပှၤဘၣ်ကီဘၣ်ခဲဒဲကဝီၤ ဆူ ဝ့ၢ်ဖံန့းက်စ် လီၤ. "
+"သရၣ်ဒိၣ်အံၤဖျိလံာ်စီဆှံကၠိ ဖဲကီၢ်သူလ့ၤကညီဘျၢထံလံာ်စီဆှံကၠိ အိၣ်ဖဲ မဲၢ်လး, ကီၢ်ကၠီၣ်တဲၣ် န့ၣ်လီၤ. သရၣ်ဒိၣ်အံၤဘၣ်တၢ်ပာ်စုအီၤဖဲ "
+"၁၉၉၅ နံၣ်န့ၣ်လီၤ. သရၣ်ဒိၣ်သးဂ့ၤကွၢ်တၢ်အိၣ်ဖှိၣ် ဖဲ အမလးတၢ်အိၣ်ဖှိၣ် ဖဲ ဒဝဲၣ် ၅ နံၣ်လီၤ. "
+"ဝံၤဒီးအမၤတၢ်ဒ်နဲၣ်ရွဲၣ်ခိၣ်ကျၢၢ် ဖဲ ဘလံး-ဒဝဲၣ်ကညီဘျၢထံ ခဝ့ၡၢၣ် ၅ နံၣ်န့ၣ်လီၤ. "
+"ဖဲအအိၣ်ဝဲလၢထါမဟ့ၣ်ပှၤဘၣ်ကီဘၣ်ခဲဒဲကဝီၤအခါ, သရၣ်ဒိၣ်သးဂ့ၤကဲဝဲ တၢ်အိၣ်ဖှိၣ် ၁၅ ဖှိၣ် အပှၤပၢၤလီၢ်ဆ့ၣ်နီၤ ဖဲလီၢ်ကဝီၤ ၁ "
+"အပူၤန့ၣ်လီၤ. ဖဲအဟဲတုၤလၢ ဝ့ၢ်ဖံန့းက်စ် ဒီး သရၣ်ဒိၣ်ဂဲၤလိာ်ဝဲလၢပှၤကညီခရံာ်ဖိတဖၣ်အကကရၢကရိထီၣ်တၢ်အိၣ်ဖှိၣ်န့ၣ်လီၤ. ဖဲ "
+"၂၀၁၁ န့ၣ် သရၣ်ဒိၣ်သးဂ့ၤ ဒီး အဒူၣ်ဖိထၢဖိ သုးအသးဆူ Georgia ကီၢ်စဲၣ် လီၤ. "
+
+#: templates/app/about.html:52
+msgid ""
+"In July 2007, Pastor Tha Hser relocated from California and immediately got "
+"involved in the Karen ministry. He is a graduate of Karen Baptist "
+"Theological Seminary in Insein, Burma. He worked as a missionary for five "
+"years among the Karen who lived in mountains and practiced animism. He "
+"served as a pastor for Tha Nay Klay church and Amo Mission church for 10 "
+"years. He lived in Maniloi and Htam Hin refugee camps where he also served "
+"as a pastor for five years."
+msgstr ""
+"ဖဲ လါယူၤလံ ၂၀၀၇ န့ၣ် သရၣ်ဒိၣ်သးဆၢထိဟဲသုးအသးလၢ California ဆူ ဝ့ၢ်ဖံန့းက်စ် ဒီး တဘျီဃီ ​​​နုာ်လီၤမၤဃုာ် "
+"တၢ်လၢတၢ်အိၣ်ဖှိၣ်အပူၤလီၤ. သရၣ်ဒိၣ်သးဆၢဖျိထီၣ်လံာ်စီဆှံကၠိဖဲ ပှၤကညီဘျၢထံယွၤဂ့ၢ် ပီညါဖၠၣ်စိမိၤ ဖဲ ဝ့ၢ်အ့စ့ၣ်, ကီၢ်ပယီၤ "
+"န့ၣ်လီၤ. သရၣ်ဒိၣ်သးဆၢစိာ်တၢ်သးခုကစီၣ် ၅ နံၣ် လၢပှၤကညီလၢ အအိၣ်လၢကစၢၢ်ကလိဒီးဘါသံးခိၣ်မုၢ်ဃါ အကျါ န့ၣ်လီၤ. "
+"သရၣ်ဒိၣ်ကွၢ်တၢ်အိၣ်ဖှိၣ်ဖဲ သန့ချၢၣ် တၢ်အိၣ်ဖှိၣ် ဒီး အမိၤတၢ်အိၣ်ဖှိၣ်ယံာ်အနံၣ် ၁၀ လီၤ. သရၣ်ဒိၣ်အိၣ်တ့ၢ်ဖဲ မဲာ်နံၢ်လွဲၣ် ဒီး "
+"ထါမဟ့ၣ် ပှၤဘၣ်ကီဘၣ်ခဲဒဲကဝီၤတဖၣ် ဒီး ကွၢ်တၢ်အိၣ်ဖှိၣ်ဖဲန့ၣ် ၅ နံၣ်လီၤ."
+
+#: templates/app/about.html:56
+msgid ""
+"Pastor Tha Hgay and Pastor Tha Hser work together to help meet the spiritual "
+"and physical needs of the congregation. In 2008, as more Karen refugees were "
+"resettled in Phoenix, we outgrew the West Dunlap Church facility and began "
+"looking for a more spacious place to worship."
+msgstr ""
+"သရၣ်ဒိၣ်သးဆၢထိ ဟ့ၣ်လီၤအသးနီၢ်နီၢ်ဒီးဂဲၤလိာ်လၢခရံာ်အတၢ်အိၣ်ဖှိၣ်အပူၤလၢာ်သူၣ်လၢာ်သး ဒ်သိး "
+"ကလုၢ်အီၣ်လုၢ်အီတၢ်အိၣ်ဖှိၣ်ဖိတဖၣ်လၢနီၢ်သးတခီ ဒီး ကမၤစၢၤတၢ်အိၣ်ဖှိၣ်ဖိတဖၣ်အနီၢ်ခိအတၢ်လိၣ် အဂီၢ်စ့ၢ်ကီးလီၤ. ဖဲ ၂၀၀၈ "
+"နံၣ်န့ၣ် ပှကညီဘၣ်ကီဘၣ်ခဲတဖၣ်ဟဲတုၤအါထီၣ်ဒီး တၢ်အိၣ်ဖှိၣ်လိၣ်ဘၣ် သရိာ် လၢအဒိၣ်လီၤ."
+
+#: templates/app/about.html:60
+msgid ""
+"Pastor Stan Crews and the Monte Vista Baptist Church lovingly opened its "
+"doors to the Karen congregation in July, 2008. Our church later made a "
+"decision to join American Baptist Churches USA in order to partner in "
+"Christ, embrace our shared heritage, respond to the plight of refugees, and "
+"engage in collaborative ministries in Burma."
+msgstr ""
+"Pastor Stan Crews ဒီး Monte Vista Baptist Church တူၢ်လိာ်ပတၢ်အိၣ်ဖှိၣ် လၢတၢ်အဲၣ်တၢ်ကွံ ဖဲ "
+"လါယူၤလံ ဖဲ ၂၀၀၈ နံၣ်လီၤ. ပတၢ်အိၣ်ဖှိၣ်ဆၢတဲာ်လၢကဘၣ်ထွဲဘျးစဲအသးလၢ American Baptist Churches USA "
+"ဒ်သိးပကမၤသကိးတၢ် လၢခရံာ်အတၢ်မၤအပူၤ လၢတၢ်ပာ်ဒိၣ်ပာ်ကဲတၢ်စံၣ်စိၤတဲစိၤလၢ ပလဲၤခီဖျိတ့ၢ်ဒ်သိးသိး, "
+"ဒ်သိးပကမၤစၢၤပှၤဘၣ်ကီဘၣ်ခဲတဖၣ်, ဒီး ဒ်သိး ပကမၤသကိးတၢ်ဒ်သိးသိး လၢ "
+"တၢ်သးခုကစီၣ်အတၢ်ဖံးတၢ်မၤတဖၣ်လၢကီၢ်ပယီၤအပူၤန့ၣ်လီၤ. "
+
+#: templates/app/biblestudies.html:11
+msgid "Are you suffering from spiritual starvation?"
+msgstr "မ့ၢ်နသၣ်ဝံၤလီၤဒိလၢနီၢ်သးတခီဧါ?"
+
+#: templates/app/biblestudies.html:13
+msgid "Click here."
+msgstr "ဆီၣ်လီၤဖဲအံၤ"
+
+#: templates/app/biblestudies.html:16
+msgid "Bible Study Materials"
+msgstr "တၢ်မၤလိလံာ်စီဆှံ - တၢ်ဒုးကဲထီၣ်ခရံာ်အပျဲၢ်အဘီၣ်"
+
+#: templates/app/biblestudies.html:18
+msgid "Explore them here."
+msgstr "ဃုထံၣ်ဖဲအံၤ"
+
+#: templates/app/biblestudies.html:21 templates/base/_menu.html:32
+msgid "Bible Study Schedule"
+msgstr "တၢ်မၤလိလံာ်စီဆှံနံၣ်သီဆၢကတီၢ်တဖၣ်"
+
+#: templates/app/biblestudies.html:22
+msgid "Check the bible study schedule."
+msgstr "ကွၢ် တၢ်မၤလိလံာ်စီဆှံနံၣ်သီဆၢကတီၢ်တဖၣ်"
+
+#: templates/app/index.html:35
+msgid "Sunday Ministries"
+msgstr "အိၣ်ဘှံးနံၤတၢ်ရဲၣ်လီၤကျဲၤလီၤ"
+
+#: templates/app/index.html:37 templates/app/location.html:23
+msgid "Sunday School/Bible Study: 11:00 a.m."
+msgstr "အိၣ်ဘှံးနံၤတၢ်မၤလိ ဖိသၣ် ဒီး သးစၢ် - ဂီၤခီ ၁၁ နၣ်ရံၣ်"
+
+#: templates/app/index.html:38 templates/app/location.html:36
+msgid "Worship Service: 12:15 p.m."
+msgstr "မုၢ်ထူၣ်တၢ်ဘါ - မုၢ်ဃ့ၢ်လီၤ ၁၂: ၁၅ နၣ်ရံၣ်"
+
+#: templates/app/index.html:42
+msgid "Be alive, be fruitful, and bring glory to God!"
+msgstr "ခရံာ်တၢ်အိၣ်ဖှိၣ်လၢမူထီၣ်, သၣ်ထီၣ်ဒီးမၤလၤကပီၤအီၤ"
+
+#: templates/app/index.html:43
+msgid ""
+"For none of us lives for ourselves alone, and none of us dies for ourselves "
+"alone. If we live, we live for the Lord; and if we die, we die for the Lord. "
+"So, whether we live or die, we belong to the Lord. (Romans 14:7-8)"
+msgstr ""
+"အဂ့ၢ်ဒ်အံၤ, ပတမူဘၣ်လၢပဂီၢ်ဒၣ်ဝဲနီတဂၤဘၣ်,ဒီး ပတသံဘၣ်လၢပဂီၢ်ဒၣ်ပဝဲနီတဂၤဘၣ်. ၈ အဂ့ၢ်ဒ်အံၣ်, ပမ့ၢ်မူဒီး, "
+"ပမူလၢကစၢ်အဂီၢ်,ဒီးပမ့ၢ်သံဒီး,ပသံလၢက စၢ်အဂီၢ်လီၤ. မၤသးဒ်န့ၣ်ဒီး,ပမူမ့ၢ်ဂ့ၤ,ပသံမ့ၢ်ဂ့ၤ,ပမ့ၢ်က စၢ်အတၢ်လီၤ. "
+"(ရိမ့ၤ ၁၄: ၇-၈)"
+
+#: templates/app/index.html:46 templates/app/location.html:13
+msgid "Address"
+msgstr "တၢ်လီၢ်"
+
+#: templates/app/location.html:21
+msgid "Worship"
+msgstr "တၢ်ဘါ"
+
+#: templates/app/location.html:26
+msgid "Age 3 and below"
+msgstr "တၢ်ကွၢ်ထွဲဖိသၣ်အတီၤ  (၃ နံၣ် ဆူအဖီလာ်)"
+
+#: templates/app/location.html:27
+msgid "Age 4-5"
+msgstr "တီၤ ၁   (၄ နံၣ် - ၅ နံၣ်)"
+
+#: templates/app/location.html:28
+msgid "Age 6-7"
+msgstr "တီၤ ၂ (၆ နံၣ် - ၇ နံၣ်)"
+
+#: templates/app/location.html:29
+msgid "Age 8-9"
+msgstr "တီၤ ၃ (၈ နံၣ် - ၉ နံၣ်)"
+
+#: templates/app/location.html:30
+msgid "Age 10-11"
+msgstr "တီၤ ၄ (၁၀ နံၣ် -  ၁၁ နံၣ်)"
+
+#: templates/app/location.html:31
+msgid "Age 12-13"
+msgstr "တီၤ ၅ (၁၂ နံၣ် - ၁၃ နံၣ်)"
+
+#: templates/app/location.html:32
+msgid "Age 14+"
+msgstr "တီၤ ၆  (၁၄ နံၣ် ဆူအဖီခိၣ်)"
+
+#: templates/app/location.html:33
+msgid "Young Adults"
+msgstr "တီၤ ၇ (သးစၢ် ဒီး သးစၢ်ဒိၣ်တုာ်)"
+
+#: templates/app/location.html:34
+msgid "Adults - 3 classes"
+msgstr "သးပှၢ်အိၣ်ဘှံးနံၤတၢ်မၤလိအတီၤအိၣ်ဝဲသၢတီၤလီၤ."
+
+#: templates/app/ministries.html:12
+msgid "Prayer Warriors"
+msgstr "တၢ်အိၣ်ဖှိၣ်အတၢ်ထုကဖၣ်အသုးမုၢ်တဖၣ်"
+
+#: templates/app/ministries.html:13
+msgid "2 Chronicles 7:14-15(NIV)"
+msgstr "၂ ကွဲးနီၣ်တၢ် ရး၁၄-၁၅"
+
+#: templates/app/ministries.html:16
+msgid ""
+"If my people, who are called by my name,  will humble themselves and pray "
+"and seek my face and turn from their wicked  ways, then will I hear from "
+"heaven and will forgive their sin and will heal  their land. Now my eyes "
+"will be open and my ears attentive to the  prayers offered in this place."
+msgstr ""
+"ယပှၤဂီၢ်မုၢ်လၢကိးအီၤလၢယမံၤန့ၣ်မ့ၢ်ဆီၣ်လီၤအသး, ဒီးဘါထုကဖၣ်တၢ်, ဒီး ဃုယမဲာ်ဒီး, ဃၣ်ကဒါက့ၤ အသးလၢ "
+"အကျဲအၢအဃိဒီး, ယကဒိကနၣ်လၢမူခိၣ်, ဒီးပျၢ်အတၢ်ဒဲးဘး, ဒီးမၤဘျါက့ၤ အထံအကီၢ်လီၤ. ခဲကနံၣ်အံၤ "
+"ယမဲာ်ကအိၣ်အိးထီၣ်အသး, ဒီး ယနၢ်ကဒိကနၣ်တၢ်ထုကဖၣ်လၢတၢ်လီၢ်အံၤအပူၤလီၤ."
+
+#: templates/app/ministries.html:20
+msgid ""
+"Every Friday  night, a group of prayer warriors, led by Pastor Tha Hser, "
+"communes with God to  praise Him, seek His guidance, and appeal for His "
+"intercession for our world,  our nations, our people, and our congregation."
+msgstr ""
+"မုၢ်ယဲၢ်နံၤမုၢ်နၤခီထီဘိ ပှၤဒုးတၢ်လၢတၢ်ထုကဖၣ်တဖၣ် လၢဘၣ်တၢ်တီခိၣ်ရိၣ်မဲအီၤလၢ သရၣ်ဒိၣ်သးဆၢ ကတိၤရ့လိာ်အသးလၢယွၤ ခီဖျိ "
+"တၢ်ထုကဖၣ်နဲာ်နၤ ဒ်သိးကစံးထီၣ်ပတြၢၤအီၤ, ကဃုယွၤအကျဲ, ဒီး ကဃ့ကညးဘါထုကဖၣ်တၢ်လၢ ဟီၣ်ခိၣ်ဖိတဖၣ်, ထံကီၢ်တဖၣ်, "
+"ပပှၤကလုာ်တဖၣ်, ဒီး ပတၢ်အိၣ်ဖှိၣ်ဖိတဖၣ် အဂီၢ်လီၤ."
+
+#: templates/app/ministries.html:23
+msgid "Christian Care and Social Ministry"
+msgstr "တၢ်သးခုကစီၣ်တၢ်မၤခီဖျိတၢ်မၤဂ့ၤမၤစၢၤဒီးကဟုကယာ်တၢ် "
+
+#: templates/app/ministries.html:24
+msgid "2 Corinthians 8:1-2 (NIV)"
+msgstr "၂ ကရံၣ်သူး ဂ:၁-၂"
+
+#: templates/app/ministries.html:27
+msgid ""
+"And  now, brothers, we want you to know about the grace that God has given "
+"the  Macedonian churches. Out of the most severe trial, their  overflowing "
+"joy and their extreme poverty welled up in rich generosity."
+msgstr ""
+"ဒီးပုၢ်သ့ၣ်ဝဲၢ်သ့ၣ်ဧၢ ပဘိးဘၣ်သ့ၣ်ညါသုလၢ ယွၤအဘျူးအဖှိၣ်လၢ တၢ်ဟ့ၣ်လၢ တၢ်အိၣ်ဖှိၣ်တဖၣ်လၢ မၤက့းဒနံ အဂ့ၢ်လီၤ. "
+"အဝဲသ့ၣ်ဘၣ်တၢ်မၤကွၢ်အီၤဖးဒိၣ်လၢတၢ်နးတၢ်ဖှီၣ်အဖၢမုၢ်ဒီး အတၢ်သးခုဒိၣ်ဝဲ ဒီး ဒ်အတၢ်ဖှီၣ်တၢ်ယာ်ယိာ်ဝဲအသိးန့ၣ် "
+"မၤဘူၣ်တၢ်လၢအအါထူးထူးတီၤတီၤလီၤ."
+
+#: templates/app/ministries.html:31
+msgid ""
+"The Christian Care and Social Ministry, led by Pastor Tha Hser, offers help "
+"to immigrants, who  face economic, cultural, occupational, psychological, "
+"and communicational challenges.  This ministry manifests the compassion of  "
+"Christ to those facing life challenges through prayers, friendship, and "
+"support  that includes, but not limited to, counseling, financial "
+"assistance, job  search, translation, interpreting, transportation, and "
+"education."
+msgstr ""
+"တၢ်မၤဂ့ၤမၤစၢၤ ဒီး တၢ်ကဟုကယာ် တၢ်သးခုကစီၣ်အတၢ်ဖံးတၢ်မၤ လၢဘၣ်တၢ်တီခိၣ်ရိၣ်မဲအီၤလၢ သရၣ်ဒိၣ်သးဆၢ မၤစၢၤ "
+"ပှၤဟဲသုးအသးတဖၣ် လၢအကွၢ်ဆၢၣ်မဲာ်ဘၣ် တၢ်ကီတၢ်ခဲ ဘၣ်ဃးဒီး တနံၤဘၣ်တနံၤတၢ်အီၣ်တၢ်အီတၢ်အိၣ်မူ, လုၢ်လၢ်အတၢ်လီၤဆီတဖၣ်, "
+"တၢ်ဖံးတၢ်မၤ အတၢ်ဃံးတၢ်စ့ၤ တဖၣ်, သးအတၢ်ဘၣ်တံာ်တာ်ဘၣ်ဒိဘၣ်ထံးတဖၣ်, ဒီး ကျိာ်ကျာ်တၢ်တနၢ်ပၢၢ်လိာ်သးတဖၣ် "
+"န့ၣ်လီၤ. တၢ်သးခုကစီၣ်တၢ်မၤအံၤ ပာ်ဖျါထီၣ် ကစၢ်ခရံာ်အတၢ်အဲၣ်တၢ်ကွံဆူပှၤလၢအကွၢ်ဆၢၣ်မဲာ်ဘၣ် သးသမူအတၢ်တၤတဖၣ် ခီဖျိ "
+"တၢ်ထုကဖၣ်, တၢ်ရ့လိာ်မုာ်လိာ်, ဒီး တၢ်ဆီၣ်ထွဲမၤစၢၤလၢ တၢ်ဟ့ၣ်ကူၣ် ဟ့ၣ်ဖး, ကျိာ်စ့တၢ်မၤစၢၤ, တၢ်ကွၢ်ဃုတၢ်ဖံးတၢ်မၤ, "
+"တၢ်ကွဲးဒီးကတိၤကျိာ်ထံ, ဝံစိာ်တီဆှၢအတၢ်မၤစၢၤ, ဒီး တၢ်ကူၣ်ဘၣ်ကူၣ်သ့အတၢ်မၤစၢၤတဖၣ်လီၤ."
+
+#: templates/app/pastors.html:14
+msgid "Pastor Tha Hser"
+msgstr "သရၣ်ဒိၣ်သးဆၢထိ"
+
+#: templates/app/pastors.html:17
+msgid ""
+"One of seven children, Pastor Tha Hser Tun was the only child who was given "
+"the opportunity to get an education.  His parents put him in the home of a "
+"distant relative and they allowed him to attend school.  From 1977 to 1981, "
+"he studied at the Karen Baptist Theological Seminary in Burma.  Although his "
+"school years were poverty-stricken, Pastor Tha Hser graduated successfully "
+"and chose to work as a missionary for five years among indigenous Karen who "
+"practiced animism and lived in the mountains.  Pastor Tha Hser got malaria "
+"and almost died, but God’s mercy sustained him."
+msgstr ""
+"ဒီပုၢ်ဝဲၢ်နွံဂၤအကျါ သရၣ်ဒိၣ်သးဆၢထိမ့ၢ်ပှၤတဂၤလၢန့ၢ်ဘၣ်တၢ်ခွဲးတၢ်ယာ် လၢကမၤလိဘၣ်တၢ်လၢကၠိ လီၤ. မိၢ်ပၢ်လဲၤပာ်အီၤ "
+"လၢဘူးတံၢ်အဟံၣ်လၢကထီၣ်ဘၣ်ကၠိအဂီၢ်န့ၣ်လီၤ. ဖဲ ၁၉၇၇ တုၤ ၁၉၈၁ န့ၣ် သရၣ်ဒိၣ် လဲၤမၤလိဘၣ်လံာ်စီဆှံကၠိ "
+"လၢကညီဘျၢထံယွၤဂ့ၢ်ဖၠၣ်စိမိၤ န့ၣ်လီၤ. သရၣ်ဒိၣ်ဘၣ်မၤလိဝဲတၢ် ဖဲလံာ်စီဆှံကၠိ လၢတၢ်ဖှီၣ်တၢ်ယာ်တၢ်ဃံးတၢ်စ့ၢ်အပူၤန့ၣ်လီၤ. "
+"အဝဲဖျိထီၣ်ဝံၤ ဃုထၢလဲၤမၤတၢ်သးခုကစီၣ်ဖဲ မိၢ်လုပၢ်လၢ် ကညီဆ့မိၢ်ဝါ ကစၢၢ်ခိၣ်ဖိအကျါ ၅ နံၣ်လီၤ. အဝဲဒိးန့ၢ်ဘၣ်တၢ်ညာ်ဂိၢ် "
+"ဘူးတ့ၢ်မးကသံ ဘၣ်ဆၣ်ယွၤပာ်မူ အီၤ န့ၣ်လီၤ. ၁၉၈၇ တုၤ ၁၉၉၇ နံၣ်အပူၤန့ၣ် သရၣ်ဒိၣ်ကွၢ်တၢ်အိၣ်ဖှိၣ် ၂ တီၤ ဖဲ "
+"သန့ချၢၣ်တၢ်အိၣ်ဖှိၣ် ဒီး အမိၤမ့ၤၡၢၣ် တၢ်အိၣ်ဖှိၣ် ဖဲ ဘလံး ဒဝဲၣ် န့ၣ်လီၤ. ခီဖျိထံကီၢ်တဂၢၢ်တကျၢၤအဃိ "
+"သရၣ်ဒိၣ်ဒီးအဟံၣ်ဖိ ဃီဖိ သုးအသးဆူယိၤကီၢ်န့ၣ်လီၤ. အိၣ်ဘၣ်ဝဲလၢ မဲာ်နံၢ်လွဲၣ် ဒီး ထါမဟ့ၣ် ပှၤဘၣ်ကီဘၣ်ကဲ ဒဲကဝီၤ ဒီး ဖဲန့ၣ် "
+"သရၣ်ဒိၣ်ကွၢ်ထွဲစ့ၢ်ကီးတၢ်အိၣ်ဖှိၣ်လီၤ. ဖဲ ၂၀၀၃ နံၣ်အပူၤ သရၣ်ဒိၣ်ဒီးအဟံၣ်ဖိဃီဖိ ဟဲသုးဃီၤဘၣ် အသးဆူ California "
+"ဝံၤမၤလိဘၣ်ကိၤလၤဝါကျိာ်ဒီး မၤစၢၤဘၣ်ပှၤဘၣ်ကီဘၣ်ခဲတဖၣ်န့ၣ်လီၤ. ဝံၤအလီၢ်ခံ သရၣ်ဒိၣ်သုးက့ၤအသးဆူ ဝ့ၢ်ဖံန့းက်စ်, "
+"အရံၣ်စိနါ, ဒီး မၤစၢၤဘၣ် တၢ်အိၣ်ဖှိၣ်ဒီး ကညီဖိတဖၣ် လၢအိၣ်တပူၤဃီဒီး လုၢ်အီၣ် ဘၣ်ဟံၣ်ဖိဃီဖိ ခီဖျိတၢ်မၤလၢ Printer "
+"Repair ခီပနံၣ် န့ၣ်လီၤ. ဖဲ ၂၀၀၈ နံၣ်, အရံၣ်စိနါကညီဘျၢထံ ခရံာ်ဖိတၢ်အိၣ်ဖှိၣ် လိၣ်ဘၣ်လၢ "
+"တၢ်ကတီခိၣ်ရိၣ်မဲတၢ်အိၣ်ဖှိၣ်အဃိ သရၣ်ဒိၣ်​နုာ်လီၤမၤတၢ်ဒ် တၢ်အိၣ်ဖှိၣ် သရၣ်တဂၤအသိးန့ၣ်လီၤ. သရၣ်ဒိၣ်ဘၣ်တၢ်ပာ်စုအီၤဖဲ "
+"လါအ့ဖြ့ၣ် ၁၈, ၂၀၁၀ လီၤ. သရၣ်ဒိၣ်မၤတၢ်ပှဲၤဒီး တၢ်သူၣ်ဖှံသးညီ တၢ်သူၣ်အိၣ်သးအိၣ် ခီဖျိ "
+"လၢအမါသးဘိအတၢ်ဆီၣ်ထွဲမၤစၢၤ အီၤလၢလၢပှဲၤပှဲၤအဃိလီၤ. သရၣ်ဒိၣ်အိၣ်ဒီး အမၢၤ အိၣ်ဒီး အဖိ ၄ ဂၤ ဒီး လံၤ ၃ "
+"ဂၤန့ၣ်လီၤ. သရၣ်ဒိၣ်စံးဘျူးကစၢ်ယွၤ လၢအဃုထၢအီၤ လၢအတၢ်မၤဖးဒိၣ်အဂီၢ်န့ၣ်လီၤ. စံးဘျူးဝဲစ့ၢ်ကီး တၢ်အိၣ်ဖှိၣ်ဖိ "
+"ကိးဂၤဒဲး လၢအဆီၣ်ထွဲမၤစၢၤအီၤ လၢခရံာ်အတၢ်အိၣ်ဖှိၣ်အတၢ်မၤအပူၤဒီး အဝဲမုၢ်လၢ်အဒိၣ်အအါလၢ တၢ်အိၣ်ဖှိၣ်ဖိတဖၣ်ကထုကဖၣ်လၢ "
+"အဂီၢ်န့ၣ်လီၤ."
+
+#: templates/app/pastors.html:20
+msgid ""
+"From 1987 to 1997, Pastor Tha Hser served as pastor for two churches: Tha "
+"Nay Kler and Amo Mission Church in Tavoy District.  Due to political "
+"instability, Pastor and his family fled to Thailand. He lived in Maniloi and "
+"Htam Hin refugee camps where he also served as a pastor.  In June 2003, "
+"Pastor Tha Hser and family were resettled in California where he learned "
+"English and assisted many refugees."
+msgstr " "
+
+#: templates/app/pastors.html:23
+msgid ""
+"After moving to Phoenix in July 2007, Pastor Tha Hser immediately got "
+"involved in the Karen ministry.  He supported his family by holding a full-"
+"time job as a factory worker at a printer repair company.  In early 2009,  "
+"the Arizona Karen Baptist Church was blessed to find the funding necessary "
+"for Pastor Tha Hser to quit his factory job and devote full time providing "
+"support and leadership at the church."
+msgstr " "
+
+#: templates/app/pastors.html:26
+msgid ""
+"Pastor Tha Hser is thankful for his wife, who has always been supportive of "
+"his ministry.  Pastor and Mrs. Tha Hser Tun have four children and three "
+"grandchildren.  He is grateful to God for the privilege of serving Him, and "
+"also expresses his deepest appreciation to everyone for their continuing "
+"support and prayers."
+msgstr " "
+
+#: templates/app/pastors.html:31
+msgid "Thramu Dah Hpaw"
+msgstr "သရၣ်မုၣ်ဒါဖီအဂ့ၢ်ဖုၣ်ကိာ်"
+
+#: templates/app/pastors.html:34
+msgid ""
+"Thramu Dah Hpaw joined Arizona Karen Baptist Church on September 28, 2014, "
+"as an associate pastor.  She was born in 1979 on Mali Island, Tanintharyi  "
+"Division, Myanmar. The youngest of nine children, she accepted Jesus Christ "
+"as her Savior at age 16. After passing the matriculation exam in 1997, she "
+"wanted to pursue nursing as a vocation, but couldn't afford it. Thramu Dah "
+"Hpaw decided to study theology at the Karen Theological Seminary in Yangon. "
+"After earning a Bachelor of Theology degree in 2005, she joined the Karen "
+"Baptist Convention, Da Wai Region, as assistant secretary working with youth "
+"(Christian Endeavors) from several churches in the Region. In 2006, Thramu "
+"Dah Hpaw entered Myanmar Institute of Theology and earned a Master's of "
+"Divinity degree in 2009. Upon graduation, she joined Christian Social "
+"Service and Development, working until 2012 as associate director, helping "
+"displaced persons. She then joined Tanintharyi Karen Peace Initiative where "
+"she was a logistics manager until June 2013, resettling villagers and "
+"replanting churches for internally-displaced persons."
+msgstr "သရၣ်မုၣ်ဒါဖီအံၤအိၣ်ဖျဲၣ်ထီၣ်ဝဲဒၣ်ဖဲ ၁၉၇၉, လၢမလံးကျိၢ်သဝီ, Mali Island ကီၢ်ပယီၤအပူၤန့ၣ်လီၤ.လၢအဒီပုၢ်ဝဲၢ်အကျါ အဝဲမ့ၢ်ပှၤအဆံးကတၢၢ်တဂၤန့ၣ်လီၤ.ဖဲအသးနံၣ် ၁၆ နံၣ်အခါအဝဲတူၢ်လိာ်ကစၢ်ခရံာ်ဒ်အမ့ၢ်ပှၤအုၣ်က့ၤခီၣ်က့ၤတၢ်တဂၤ န့ၣ်လီၤ.ဖဲ ၁၉၉ရ နံၣ်န့ၣ်အဝဲဖျိထီၣ်တီၤထီကၠိဒီးသးစဲဝဲဒၣ်လၢကကဲထီၣ်ဘၣ် Nurse တဂၤဘၣ်ဆၣ်တၢ်ခွဲးတၢ်ယာ်တအိၣ်လၢ ကကဲထီၣ်ဝဲဘၣ်.ဖဲ ၂၀၁၅ နံၣ်န့ၣ်အဝဲဖျိထီၣ်ဝဲဒၣ် B.Th., Karen Baptist Theological Seminary  ဝံၤအဝဲနုာ်လီၤမၤ စၢၤတၢ်လၢကီၢ်ဒဝဲၣ်ဘျံးကျဲးစၢးကရၢဒ်ပှၤမၤစၢၤနဲၣ်ရွဲၣ်တဂၤအသိးတနံၣ်န့ၣ်လီၤ.အတၢ်မၤအံၤဘၣ်ထွဲဒီးပှၤသးစၢ်လၢတၢ်အိၣ် ဖှိၣ်သ့ၣ်တဖၣ်အပူၤန့ၣ်လီၤ. ဒီးဖဲ ၂၀၀၆ နံၣ်န့ၣ်အဝဲလဲၤထီၣ်ကဒါက့ၤလံာ်စီဆှံကၠိလၢ Myanmar Institute of Theology  န့ၣ်လီၤ. အဝဲဖျိထီၣ်ဝဲ M. Div ဖဲ ၂၀၀၉ နံၣ်ဝံၤဒီးက့ၤနုာ်လီၤမၤသကိးက့ၤတၢ်လၢကီၢ်ဒဝဲၣ်ဘျံးခရံာ်ဖိတၢ်မၤဂ့ၤမၤစၢၤဒီးတၢ်ဂုၤထီၣ်ပသီ ထီၣ်ဝဲၤကျိၤ (Christian Social Service and Development  Department)ဒ်ပှၤနဲၣ်တၢ်သဃဲၤ (Associate Director) တဂၤအသိးလၢသၢနံၣ်အတီၢ်ပူၤ (၂၀၀၉ - ၂၀၁၂) နံၣ်န့ၣ်လီၤ.အတၢ်မၤအံၤဘၣ်ထွဲဒီးထံလီၢ်ကီၢ်ပူၤတၢ်အိၣ်ဖှိၣ်ဒီး ဒူသဝီတနီၤလၢတၢ်သုးလီၢ်သုးကျဲမ့ၢ်လၢထံလီၢ်ကီၢ်ပူၤတၢ်ဒုးတၢ်ယၤအဃိန့ၣ်လီၤ. ဝံၤအလီၢ်ခံအဝဲမၤသကိးတၢ်လၢ Tanaytharyi Karen Peace Support Initiative ဒ်တၢ်တိာ်ကျဲၤမူ ဒါခိၣ်တဂၤအသိးစးထီၣ်လၢ (၂၀၁၂ လါနိၣ်ဝ့ဘၢၤ တုၤ ၂၀၁၃ လါယူၣ်) န့ၣ်လီၤ . ဒူသဝီလၢဘၣ်ဃ့ၢ်မှံဟးဖျိးတဖၣ်တၢ်ရဲၣ် ကျဲၤန့ၢ်အဝဲသ့ၣ်လၢကဟဲက့ၤဆီလီၤပာ်လီၤက့ၤအဒူသဝီဒီးသူၣ်ထီၣ်က့ၤတၢ်အိၣ်ဖှိၣ်အဂီၢ်န့ၣ်လီၤ."
+
+#: templates/app/pastors.html:37
+msgid ""
+"In 2010, Thramu Dah Hpaw married Hser Ehhtoo Baw (Jimery) and immigrated to "
+"the U.S. June 29, 2013. She is grateful to God for  the support he has "
+"provided. Jimery and Dah Hpaw welcomed the arrival of their first-born, Paul "
+"Jeffrey Htoo, August 12, 2014."
+msgstr "သရၣ်မုၣ်ဒါဖီအံၤဒိးတ့ဒိးဖျီအသးဒီးစီၤကၠ့ၤမရံဖဲ ၂၀၁၀ နံၣ် ဒီး အဝဲဟဲတုၤအမဲရံကၤဖဲ ၂၀၁၃ နံၣ် လါယူၣ် ၂၉ သီအနံၤန့ၣ်လီၤ.မဝဲစံးဘျုးဘၣ်ကစၢ်ယွၤအဘျုးဒိၣ်မးလၢအဟ့ၣ်အီၤအသးသမူအတံၤသကိးအဂ့ၤလၢအဟ့ၣ်ဂံၢ်ဟ့ၣ်ဘါ ဒီးဆီၣ်ထွဲမၤစၢၤအီၤထီဘိလၢအတၢ်ဖံးတၢ်မၤအပူၤအဃိန့ၣ်လီၤ.ဒိးန့ၢ်ဘၣ်ဝဲဖိခွါဖိတဂၤဖဲ လါအီကူာ် ၁၂, ၂၀၁၄ နံၣ် ပှဲၤဒီးတၢ် စံးဘျုးယွၤန့ၣ်လီၤ."
+
+#: templates/app/pastors.html:40
+msgid ""
+"It is her prayer that God will use her as His instrument, wherever she goes, "
+"for the benefit of His people. She thanks God for her parents and the "
+"Arizona Karen Baptist Church that accepts her to work hand-in-hand for His "
+"Kingdom on earth. It is Thramu Dah Hpaw's wish that you remember her in "
+"prayer, as she dedicates her life to serving God and the people she loves."
+msgstr "ထီဘိထုကဖၣ်ဝဲလၢဖဲအအိၣ်တပူၤလၢ်လၢ်န့ၣ်ကစၢ်ယွၤကသူအီၤဒ်တၢ်ပိးတၢ်လီဖိတခါလၢကကဲဘျုးလၢ ယွၤဒီးပှၤကညီအဂီၢ်န့ၣ်လီၤ.အဝဲစံးဘျုးဘၣ်ကစၢ်ယွၤဒီးမိၢ်ပၢ်ဒီးစံးဘျုးဘၣ်တၢ်အိၣ်ဖှိၣ်လၢအတူၢ်လိာ်အီၤဒ်သိးအဝဲကမၤသ ကိးတၢ်လၢတၢ်သးခုကစီၣ်အတၢ်ဖံးတၢ်မၤအပူၤန့ၣ်လီၤ.အဝဲမုၢ်လၢ်ဝဲလၢပကသ့ၣ်နီၣ်သကိးအီၤလၢတၢ်ထုကဖၣ်လၢယွၤတၢ် မၤအပူၤဒ်ကမ့ၢ်တၢ်ခ့တၢ်ပှၤလၢအဂ့ၤတဂၤန့ၣ်လီၤ."
+
+#: templates/app/resources.html:12 templates/base/_menu.html:39
+#: templates/base/_menu.html.py:41
+msgid "Resources"
+msgstr "တၢ်ဂ့ၢ်အဂၤလၢကဲဘျူးသ့"
+
+#: templates/app/resources.html:13
+msgid "N-400 application for US citizenship"
+msgstr ""
+
+#: templates/app/resources.html:14
+msgid "Tips for Job  Interview"
+msgstr "တၢ်ဟ့ၣ်ကူၣ်ဟ့ၣ်ဖးလၢ တၢ်က​နုာ်လီၤအတၢ်သမံသမိးအဂီၢ်"
+
+#: templates/app/resources.html:15
+msgid ""
+"Arizona Department of Economic Seurity (DES) - Application for Assistance"
+msgstr ""
+"Arizona Department of Economic Security (DES) Application for Assistance - "
+"လံာ်ပတံထီၣ် DES အတၢ်မၤစၢၤ"
+
+#: templates/app/resources.html:16
+msgid "Arizona Department of Economic Seurity (DES) - Change Report"
+msgstr ""
+"Arizona Department of Economic Security (DES) Change Report - လံာ်ပာ်ဖျါထီၣ်တၢ်ဆီတလဲ"
+
+#: templates/app/resources.html:17
+msgid "Translated Arizona  Driver’s License Manual"
+msgstr "တၢ်​မၤလိအလံာ်ဘၣ်ဃးဒီးတၢ်နီလ့ၣ်ဧိၤလီၤဧိၤအခွဲးအယာ်လၢအရံၣ်စိနါအပူၤ"
+
+#: templates/app/resources.html:18 templates/app/resources.html.py:19
+msgid "American Citizenship Exam Study Guide in Karen"
+msgstr ""
+"တၢ်သံကွၢ် တၢ်စံးဆၢ ဒီး လံာ်မဲာ်ဖျၢၣ်တဖၣ် လၢနကဘၣ်သ့ၣ်ညါ ဒ်သိး နကစံးဆၢ တၢ်ဒိးစဲးလၢ ကဒုးကဲထီၣ်နၤ "
+"လၢကီၢ်အမဲရံကၤထံဖိကီၢ်ဖိ"
+
+#: templates/app/sermons.html:11 templates/base/_menu.html:35
+msgid "Sermons"
+msgstr "တၢ်စံၣ်တဲၤတဲလီၤတၢ်"
+
+#: templates/app/sermons.html:14
+msgid "AKBC Sermons."
+msgstr "တၢ်စံၣ်တဲၤတဲလီၤတၢ်တဖၣ်"
+
+#: templates/app/women.html:11
+msgid ""
+"Never be lacking in zeal, but keep your spiritual fervor, serving the Lord. "
+"(Romans 12:11)"
+msgstr ""
+"လၢတၢ်မၤသပှၢ်ပှၢ်န့ၣ် သုတဝံသးကၢၣ် တဂ့ၤ. လၢသူၣ်လၢသးအဂ့ၢ်န့ၣ် ဂဲၤလိာ်သုသးတက့ၢ်. လၢကစၢ်အဂ့ၢ်န့ၣ် မၤအတၢ်တက့ၢ်. "
+"(ရိမ့ၤ ၁၂:၁၁)"
+
+#: templates/app/women.html:12
+msgid "Women's Choir: House on the Rock"
+msgstr "ပိာ်မုၣ်ခွါယၢၣ် - သူၣ်ဟံၣ်လၢလၢၢ်ခိၣ်"
+
+#: templates/app/women.html:17
+msgid "Women's Choir: In the Garden"
+msgstr "ပိာ်မုၣ်ခွါယၢၣ် - လၢတၤသၣ်လီၢ်ပူၤ"
+
+#: templates/app/women.html:22
+msgid "Women's Quartet Competition Winners"
+msgstr "ပိာ်မုၣ်ဃံာ်လွံၢ်တၢ်သးဝံပြၢ ပှၤမၤန့ၢ် ခိၣ်ဖးတၢ"
+
+#: templates/app/youth.html:11
+msgid "Tonto Rim Camp, 2014"
+msgstr "Tonto Rim Camp, 2014"
+
+#: templates/app/youth.html:16
+msgid "Tonto Rim Camp, 2013"
+msgstr "Tonto Rim Camp, 2013"
+
+#: templates/app/youth.html:22
+msgid "Tonto Rim Camp, 2012"
+msgstr "Tonto Rim Camp, 2012"
+
+#: templates/app/youth.html:27
+msgid "Tonto Rim Camp, 2011"
+msgstr "Tonto Rim Camp, 2011"
+
+#: templates/app/youth.html:32
+msgid "Youth choir at Bellevue Heights Church"
+msgstr "သးစၢ်ခွါယၢၣ်ဖဲ  Bellevue Heights Church"
+
+#: templates/app/youth.html:37
+msgid "Youth Activities"
+msgstr "သးစၢ်အတၢ်ဟူးတၢ်ဂဲၤ"
+
+#: templates/app/youth.html:43
+msgid "Contribution from AKBC Youth/Young Adults"
+msgstr "တၢ်ဟ့ၣ်ထီၣ်တၢ်လၢအရံၣ်စိနါကညီဘျၢထံတၢ်အိၣ်ဖှိၣ်သးစၢ်တဖၣ်"
+
+#: templates/base/_menu.html:19 templates/base/_menu.html.py:21
+msgid "About us"
+msgstr "ပဂ့ၢ်"
+
+#: templates/base/_menu.html:22
+msgid "Pastors' Corner"
+msgstr "တၢ်အိၣ်ဖှိၣ်သရၣ်အသနၢၣ်"
+
+#: templates/base/_menu.html:23
+msgid "Location and Service Time"
+msgstr "တၢ်လီၢ်ဒီးတၢ်ဆၢကတီၢ်"
+
+#: templates/base/_menu.html:24
+msgid "Calendar"
+msgstr ""
+
+#: templates/base/_menu.html:28 templates/base/_menu.html.py:30
+msgid "Ministries"
+msgstr "ပတၢ်မူတၢ်ဂဲၤ"
+
+#: templates/base/_menu.html:31
+msgid "Bible Studies"
+msgstr "တၢ်မၤလိလံာ်စီဆှံ - တၢ်ဒုးကဲထီၣ်ခရံာ်အပျဲၢ်အဘီၣ်"
+
+#: templates/base/_menu.html:36
+msgid "Women"
+msgstr "ပိာ်မုၣ်သနၢၣ်"
+
+#: templates/base/_menu.html:37
+msgid "Youth"
+msgstr "သးစၢ်သနၢၣ်"
+
+#: templates/base/_menu.html:42
+msgid "Facebook"
+msgstr ""
+
+#: templates/base/_menu.html:44
+msgid "Photos"
+msgstr ""
+
+#: templates/base/_menu.html:50
+msgid "Language"
+msgstr "ကျိာ်"
+
+#: templates/base/footer.html:5
+msgid "Back to top"
+msgstr "က့ၤဆူအဖီခိၣ်"
+
+#~ msgid "Pictures/Videos"
+#~ msgstr "တၢ်ဂီၤ/တၢ်ဂီၤမူ"

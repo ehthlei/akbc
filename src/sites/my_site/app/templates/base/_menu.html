@@ -1,0 +1,70 @@
+{% load staticfiles %}
+{% load i18n %}
+
+    <div class="navbar-wrapper">
+      <div class="container">
+
+        <div class="navbar navbar-inverse navbar-static-top">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="/">{% trans "AKBC" %}</a>
+            </div>
+            <div class="navbar-collapse collapse">
+              <ul class="nav navbar-nav">
+                <li class="dropdown {% if page == 'about' %}active{% endif %}">
+                  <a href="{% url 'about' %}" class="dropdown-toggle" data-toggle="dropdown">{% trans "About us" %}<b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="{% url 'about' %}">{% trans "About us" %}</a></li>
+                    <li><a href="{% url 'pastors' %}">{% trans "Pastors' Corner" %}</a></li>
+                    <li><a href="{% url 'location' %}">{% trans "Location and Service Time" %}</a></li>
+                    <li><a href="{% url 'calendar' %}">{% trans "Calendar" %}</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown {% if page == 'ministries' %}active{% endif %}">
+                  <a href="{% url 'ministries' %}" class="dropdown-toggle" data-toggle="dropdown">{% trans "Ministries" %}<b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="{% url 'ministries' %}">{% trans "Ministries" %}</a></li>
+                    <li><a href="{% url 'biblestudies' %}">{% trans "Bible Studies" %}</a></li>
+                      <li><a href="{% url 'bibleStudySchedule' %}">{% trans "Bible Study Schedule" %}</a></li>
+                  </ul>
+                </li>
+                <li {% if page == 'sermons' %}class="active"{% endif %}><a href="{% url 'sermons' %}">{% trans "Sermons" %}</a></li>
+                <li {% if page == 'women' %}class="active"{% endif %}><a href="{% url 'women' %}">{% trans "Women" %}</a></li>
+                <li {% if page == 'youth' %}class="active"{% endif %}><a href="{% url 'youth' %}">{% trans "Youth" %}</a></li>
+                <li class="dropdown {% if page == 'resources' %}active{% endif %}">
+                  <a href="{% url 'resources' %}" class="dropdown-toggle" data-toggle="dropdown">{% trans "Resources" %}<b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="{% url 'resources' %}">{% trans "Resources" %}</a></li>
+                    <li><a href="https://www.facebook.com/www.akbc.us" target="_blank">{% trans "Facebook" %}</a></li>
+
+                    <li><a href="{% url 'pictures' %}">{% trans "Photos" %}</a></li>
+                  </ul>
+                </li>
+              </ul>
+              <ul class="nav navbar-nav pull-right">
+                <li class="dropdown">
+                  <a href="{{ request.url }}" class="dropdown-toggle" data-toggle="dropdown">{% trans "Language" %}<b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                      {% for lang in LANGUAGES %}
+                        <li>
+                            <form name="setLang{{ lang.1}}" action="/i18n/setlang/" method="POST">{% csrf_token %}
+                                <!-- <input name="next" type="hidden" value="/" /> -->
+                                <input type="hidden" name="language" value="{{ lang.0 }}" />
+                                <a class="language" href="#" onclick="document.setLang{{ lang.1 }}.submit();return false;">{{ lang.1 }}</a>
+                            </form>
+                        </li>
+                      {% endfor %}
+                      </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>

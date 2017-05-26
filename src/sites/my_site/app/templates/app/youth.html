@@ -1,0 +1,44 @@
+{% extends 'base/base.html' %}
+{% load staticfiles %}
+{% load i18n %}
+
+{% block title %} {% trans "Arizona Karen Baptist Church" %} {% endblock %}
+
+{% get_current_language as LANGUAGE_CODE %}
+
+{% block content %}
+  <div class="container">
+    <h3>{% trans "Tonto Rim Camp, 2016" %}</h3>
+    <div class="video-container">
+      <iframe width="640" height="360" src="https://www.youtube.com/embed/4tdoFARX4Os?rel=0" frameborder="0" allowfullscreen></iframe>
+    </div>
+
+    <h3>{% trans "Tonto Rim Camp, 2014" %}</h3>
+    <div class="video-container">
+      <iframe width="480" height="360" src="//www.youtube.com/embed/Y1Js08MstDI" frameborder="0" allowfullscreen></iframe>
+    </div>
+
+    <h3>{% trans "Tonto Rim Camp, 2013" %}</h3>
+    <div class="video-container">
+      <iframe width="640" height="360" src="//www.youtube.com/embed/PW9j9AaFVZ4?rel=0" frameborder="0" allowfullscreen></iframe>
+    </div>
+
+
+    <h3>{% trans "Tonto Rim Camp, 2011" %}</h3>
+    <div class="video-container">
+      <iframe width="560" height="349" src="http://www.youtube.com/embed/dPMYL0S-kQw" frameborder="0" allowfullscreen></iframe>
+    </div>
+
+  	<h3>{% trans "Youth Activities" %}</h3>
+    <div class="video-container">
+      <a data-flickr-embed="true"  href="https://www.flickr.com/photos/36286541@N07/albums/72157679431528443" title="Arizona Karen Baptist Church Youth"><img src="https://c1.staticflickr.com/3/2847/33677466400_9ff2a2a7a8_b.jpg" width="100%" height="100%" alt="Arizona Karen Baptist Church Youth"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    </div>
+
+
+    <h3>{% trans "Contribution from AKBC Youth/Young Adults" %}</h3>
+    <p>"Stewardship of the Lord’s House" written by Mu Si; read and arranged by Eh Htoo Wah Hso</p>
+    <div class="video-container">
+        <iframe width="640" height="360" src="//www.youtube.com/embed/qo5h6eZSiZ0?rel=0" frameborder="0" allowfullscreen></iframe>
+    </div>
+  </div><!-- /.container -->
+{% endblock %}

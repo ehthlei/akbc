@@ -1,0 +1,47 @@
+{% extends 'base/base.html' %}
+{% load staticfiles %}
+{% load i18n %}
+
+{% block title %} {% trans "Arizona Karen Baptist Church" %} {% endblock %}
+
+{% get_current_language as LANGUAGE_CODE %}
+
+{% block content %}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h2>{% trans "Pastor Tha Hser" %}</h2>
+            <img style="float:left;padding-right:20px" src="{% static 'img/photos/thahser.png' %}" class="img-responsive" alt="">
+            <p>
+                {% trans "One of seven children, Pastor Tha Hser Tun was the only child who was given the opportunity to get an education.  His parents put him in the home of a distant relative and they allowed him to attend school.  From 1977 to 1981, he studied at the Karen Baptist Theological Seminary in Burma.  Although his school years were poverty-stricken, Pastor Tha Hser graduated successfully and chose to work as a missionary for five years among indigenous Karen who practiced animism and lived in the mountains.  Pastor Tha Hser got malaria and almost died, but God’s mercy sustained him." %}
+            </p>
+            <p>
+                {% trans "From 1987 to 1997, Pastor Tha Hser served as pastor for two churches: Tha Nay Kler and Amo Mission Church in Tavoy District.  Due to political instability, Pastor and his family fled to Thailand. He lived in Maniloi and Htam Hin refugee camps where he also served as a pastor.  In June 2003, Pastor Tha Hser and family were resettled in California where he learned English and assisted many refugees." %}
+            </p>
+            <p>
+                {% trans "After moving to Phoenix in July 2007, Pastor Tha Hser immediately got involved in the Karen ministry.  He supported his family by holding a full-time job as a factory worker at a printer repair company.  In early 2009,  the Arizona Karen Baptist Church was blessed to find the funding necessary for Pastor Tha Hser to quit his factory job and devote full time providing support and leadership at the church." %}
+            </p>
+            <p>
+                {% trans "Pastor Tha Hser is thankful for his wife, who has always been supportive of his ministry.  Pastor and Mrs. Tha Hser Tun have four children and three grandchildren.  He is grateful to God for the privilege of serving Him, and also expresses his deepest appreciation to everyone for their continuing support and prayers." %}
+            </p>
+        </div>
+
+        <div class="col-md-12">
+            <h2>{% trans "Thramu Dah Hpaw" %}</h2>
+            <img style="float:left;padding-right:20px" src="{% static 'img/photos/dah_hpaw.png' %}" class="img-responsive" alt="">
+            <p>
+                {% trans "Thramu Dah Hpaw joined Arizona Karen Baptist Church on September 28, 2014, as an associate pastor.  She was born in 1979 on Mali Island, Tanintharyi  Division, Myanmar. The youngest of nine children, she accepted Jesus Christ as her Savior at age 16. After passing the matriculation exam in 1997, she wanted to pursue nursing as a vocation, but couldn't afford it. Thramu Dah Hpaw decided to study theology at the Karen Theological Seminary in Yangon. After earning a Bachelor of Theology degree in 2005, she joined the Karen Baptist Convention, Da Wai Region, as assistant secretary working with youth (Christian Endeavors) from several churches in the Region. In 2006, Thramu Dah Hpaw entered Myanmar Institute of Theology and earned a Master's of Divinity degree in 2009. Upon graduation, she joined Christian Social Service and Development, working until 2012 as associate director, helping displaced persons. She then joined Tanintharyi Karen Peace Initiative where she was a logistics manager until June 2013, resettling villagers and replanting churches for internally-displaced persons." %}
+            </p>
+            <p>
+                {% trans "In 2010, Thramu Dah Hpaw married Hser Ehhtoo Baw (Jimery) and immigrated to the U.S. June 29, 2013. She is grateful to God for  the support he has provided. Jimery and Dah Hpaw welcomed the arrival of their first-born, Paul Jeffrey Htoo, August 12, 2014." %}
+            </p>
+            <p>
+                {% trans "It is her prayer that God will use her as His instrument, wherever she goes, for the benefit of His people. She thanks God for her parents and the Arizona Karen Baptist Church that accepts her to work hand-in-hand for His Kingdom on earth. It is Thramu Dah Hpaw's wish that you remember her in prayer, as she dedicates her life to serving God and the people she loves." %}
+            </p>
+        </div>
+
+    </div>
+    <!-- div end row --->
+</div><!-- /.container -->
+{% endblock %}
