@@ -103,9 +103,9 @@ if not DEBUG:
     CACHES = {
         'default': {
             'BACKEND': 'django.core.cache.backends.memcached.MemcachedCache',
-            'LOCATION': 'unix:/tmp/memcached.sock',
+            'LOCATION': 'unix:/home/lwinmoe/memcached.sock',
         }
     }
 
 # for performance:
-# SESSION_ENGINE = 'django.contrib.sessions.backends.cached_db'
+SESSION_ENGINE = 'django.contrib.sessions.backends.cached_db'
